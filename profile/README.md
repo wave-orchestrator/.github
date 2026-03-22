@@ -1,8 +1,5 @@
 <p align="center">
-  <h1 align="center">Wave Orchestrator</h1>
-  <p align="center">
-    <strong>AI-powered development that starts with a plan — not a prompt.</strong>
-  </p>
+  <img src="https://raw.githubusercontent.com/wave-orchestrator/.github/main/profile/banner.jpg" alt="Wave Orchestrator — AI-powered development that starts with a plan" width="100%" />
 </p>
 
 ---
