@@ -17,23 +17,6 @@ Wave Orchestrator puts **planning first**. Before any agent writes a line of cod
 
 No 2,000-line diffs. No "LGTM" on code nobody actually read. Just structured, reviewable work — delivered fast.
 
-### Get started
+### Coming soon
 
-```bash
-npm install -g wave-orchestrator
-wave-orchestrator init ~/my-project
-wave-orchestrator plan
-wave-orchestrator run
-```
-
-### Repositories
-
-| Repo | Description |
-|------|-------------|
-| [wave-orchestrator](https://github.com/wave-orchestrator/wave-orchestrator) | CLI, engine, docs, and agent packages |
-
-### Links
-
-- [Documentation](https://wave-orchestrator.dev)
-- [npm](https://www.npmjs.com/package/wave-orchestrator)
-- [Contributing](https://github.com/wave-orchestrator/wave-orchestrator/blob/main/CONTRIBUTING.md)
+Wave Orchestrator is currently in active development. Stay tuned for the public release.
